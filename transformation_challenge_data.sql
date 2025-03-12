@@ -69,5 +69,3 @@ select
     ,Email	
     ,Phone_Number
 from data
-
-select * from lrs.service_customer_data
